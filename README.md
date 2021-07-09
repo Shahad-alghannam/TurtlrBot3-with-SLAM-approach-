@@ -1,5 +1,7 @@
 # TurtlrBot3-with-SLAM-approach-
+
 TurtlrBot3 with SLAM approach To create and save map
+
 -------
 
 # steps 
@@ -65,7 +67,7 @@ $ echo "export TURTLEBOT3_MODEL=burger" >> ~/.bashrc
 $ echo "export TURTLEBOT3_MODEL=waffle_pi" >> ~/.bashrc
 
 -------
-# OpenCR Setup
+ OpenCR Setup
 
 $ sudo dpkg --add-architecture armhf
 $ sudo apt-get update
